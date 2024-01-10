@@ -4,9 +4,9 @@
 EX) <br>
 Oracle.md <br>
 GROUP BY(link) <br>
-INDEX <br>
-VIEW <br><br>
+INDEX(link) <br>
+VIEW(link) <br><br>
 
 Spring.md <br>
-SpringFramework <br>
-JPA
+SpringFramework(link) <br>
+JPA(link)
