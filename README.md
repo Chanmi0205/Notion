@@ -3,7 +3,7 @@
 
 EX) <br>
 Oracle.md <br>
-GROUP BY <br>
+GROUP BY(link) <br>
 INDEX <br>
 VIEW <br><br>
 
